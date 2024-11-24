@@ -1,0 +1,6 @@
+framework module Pods_YTApp_YTAppUITests {
+  umbrella header "Pods-YTApp-YTAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
